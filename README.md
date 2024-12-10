@@ -1,4 +1,4 @@
-# **Project DV: Air Quality Data Visualization**
+# **Air Quality Data Visualization**
 
 ## **Introduction**
 This project focuses on visualizing air quality data collected from the **EPA's Air Quality System (AQS)**. The AQS receives data from various data collection agencies and generates aggregate summaries, such as daily and annual data. The project aims to explore, analyze, and visualize this data using advanced data visualization techniques and geospatial analysis.
