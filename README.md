@@ -80,5 +80,5 @@ This project focuses on visualizing air quality data collected from the **EPA's 
 
 ### **Dashboard Creation**
 An interactive dashboard was created to visualize and explore the air quality data, combining multiple charts and geospatial maps for deeper insights.
-
+![Dashboard](DASH.png)
 ---
