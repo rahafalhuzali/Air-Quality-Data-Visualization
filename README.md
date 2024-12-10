@@ -7,14 +7,13 @@ This project focuses on visualizing air quality data collected from the **EPA's 
 
 ## **Table of Contents**
 1. [Features](#features)
-2. [Team Members](#team-members)
-3. [Tasks](#tasks)
+2. [Tasks](#tasks)
    - [Data Preprocessing](#data-preprocessing)
    - [Visualizations](#visualizations)
    - [Geospatial Analysis](#geospatial-analysis)
    - [LOD Expressions](#lod-expressions)
    - [Dashboard Creation](#dashboard-creation)
-4. [Acknowledgements](#acknowledgements)
+
 
 ---
 
